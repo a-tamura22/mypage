@@ -36,3 +36,5 @@
 hoge[hoge](./hoge.md)hoge
 
 huga[huga](./huga/huga.md)huga
+
+![ほげ](mijinko.jpg)
